@@ -1,0 +1,16 @@
+D:\programming\New folder\optcal shop system\optcal shop system\bin\Debug\optcal shop system.exe
+D:\programming\New folder\optcal shop system\optcal shop system\bin\Debug\optcal shop system.pdb
+D:\programming\New folder\optcal shop system\optcal shop system\bin\Debug\optcal shop system.xml
+D:\programming\New folder\optcal shop system\optcal shop system\obj\x86\Debug\optcal_shop_system.AboutBox1.resources
+D:\programming\New folder\optcal shop system\optcal shop system\obj\x86\Debug\optcal_shop_system.Form1.resources
+D:\programming\New folder\optcal shop system\optcal shop system\obj\x86\Debug\optcal_shop_system.LoginForm1.resources
+D:\programming\New folder\optcal shop system\optcal shop system\obj\x86\Debug\optcal_shop_system.Resources.resources
+D:\programming\New folder\optcal shop system\optcal shop system\obj\x86\Debug\optcal_shop_system.SplashScreen1.resources
+D:\programming\New folder\optcal shop system\optcal shop system\obj\x86\Debug\optcal shop system.vbproj.GenerateResource.Cache
+D:\programming\New folder\optcal shop system\optcal shop system\obj\x86\Debug\optcal shop system.exe
+D:\programming\New folder\optcal shop system\optcal shop system\obj\x86\Debug\optcal shop system.xml
+D:\programming\New folder\optcal shop system\optcal shop system\obj\x86\Debug\optcal shop system.pdb
+D:\programming\New folder\optcal shop system\optcal shop system\obj\x86\Debug\optcal_shop_system.customerAdd.resources
+D:\programming\New folder\optcal shop system\optcal shop system\obj\x86\Debug\optcal_shop_system.Editcustomer.resources
+D:\programming\New folder\optcal shop system\optcal shop system\obj\x86\Debug\optcal_shop_system.Addproduct.resources
+D:\programming\New folder\optcal shop system\optcal shop system\obj\x86\Debug\optcal_shop_system.Editproduct.resources
