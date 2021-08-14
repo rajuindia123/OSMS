@@ -1,2 +1,2 @@
 # OSMS
-Optical Shop Management System
+<h1>Optical Shop Management System</h1>
